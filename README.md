@@ -22,12 +22,14 @@ Scraped data is stored in the scraped folder and named in a year-month-day-hour 
 
 ## Authors
 
-* **Justin Ho** - *Initial work* - [JustinHo97](https://github.com/JustinHo97)
+* **Justin Ho** - *Code Monkey* - [JustinHo97](https://github.com/JustinHo97)
+* **Jondabel Ho** - *Slave Driver*
+* **Larry Ho** - *"PMO"*
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
+* Guild Wars 2 API
 * Inspiration
 * etc
