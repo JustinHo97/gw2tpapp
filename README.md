@@ -18,23 +18,7 @@ Then you can start scraping with the line below.
 node scrape.js
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-## Contributing
+Scraped data is stored in the scraped folder and named in a year-month-day-hour format.
 
 ## Authors
 
